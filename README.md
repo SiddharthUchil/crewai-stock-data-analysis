@@ -1,5 +1,9 @@
 # Financial Statement Analysis with CrewAI
 
+
+https://github.com/SiddharthUchil/crewai-stock-data-analysis/assets/36127139/80269b69-5772-49c9-b64e-99fe0c49cd3e
+
+
 This project uses the [CrewAI] framework to analyze financial statements for any company or stock using the [QuickFS] API and [matplotlib]. The project consists of two main components:
 
 - A data loader agent that fetches financial data from the QuickFS API based on the user's input of a company name, a stock symbol, and a metric of interest. The data loader agent uses the [langchain_community] package to access the QuickFS API and the [langchain_openai] package to use the OpenAIGPT4 model as the LLM.
